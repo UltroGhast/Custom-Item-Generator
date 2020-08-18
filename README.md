@@ -12,3 +12,5 @@ The first time you will run it, it will ask you some dates about the datapack.
 Simple: there isn't any data folder inside the Datapack folder. Be sure you are using the generator on the right way.
 -What is saved_dp_dates.json?
 That is the file where the datapack dates you typed the first time you used the generator on that datapack are stored.
+
+Don't copy or distribute(It's illegal, u know?).
